@@ -1,0 +1,31 @@
+h1 {
+  font-family: Poppins;
+  font-size: 50px;
+  font-weight: 600;
+  background-color: #ffa500;
+  text-align: center;
+  color:white;
+  padding: 10px 0px 10px 10px;
+  min-width: 500px;
+}
+
+.navigation {
+  box-sizing: border-box;
+  background-color: #3587A4;
+  overflow: auto;
+  padding: 10px 50px;
+  position: relative;
+}
+
+li {
+  color: #FFF;
+  display: inline-block;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
